@@ -1,0 +1,106 @@
+body {
+	-webkit-font-smoothing: antialiased;
+	background-color: #FFFFFF;
+}
+
+h1,  h3 {
+	font-weight: 800;
+}
+
+a {
+	cursor: pointer;
+	color: #FFFFFF;	
+}
+
+a:hover, a:focus {
+	color: black;
+}
+
+hr {
+	margin-left: 15px;
+}
+ 
+.wrapper {
+	background-color:#E7E4E4;
+	width: 100%;
+}
+
+.wrapper1 {
+	background-color:#D01616;
+	width: 100%;
+	color: #FFFFFF;	
+}	
+
+
+
+.contacts {
+	color: #FFFFFF;
+}
+
+
+.bar2 {
+	color: #D01616;	
+}
+.bar2 h1 {
+	padding-bottom: 7px;
+	margin-top: -6px;	
+}
+.bar2 h5 {
+	padding-top: 7px;	
+}
+
+
+.navbar {
+	padding-top: 20px;	
+}
+
+.navbar-nav >.active > a {
+	background-color: #D01616;
+}
+
+.navbar-header button {
+	background-color: #FFFFFF;
+}
+
+.navbar-header button:hover, button:focus {
+	background-color: #E7E4E4;
+}
+
+.icon-bar {
+	background-color: #D01616;
+}
+
+.desc h4 {
+	color: #D01616;
+	font-weight: 800;
+}
+
+.desc li {
+	color: #D01616; 
+ }
+ 
+.desc li span {
+	color: black; 
+ }
+ 
+.red {
+	 color: #D01616;
+ }
+ .red1 {
+	 color: #D01616;
+	 cursor: pointer;
+ }
+ .red1:hover {
+	 color: black;
+ }
+
+.foot a:hover, a:focus {
+	color: green;	
+}
+
+
+.btn {
+	background-color: #D01616;
+	border: 1px solid #FFFFFF;
+	border-radius: 0px;
+}
