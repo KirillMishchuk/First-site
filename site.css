@@ -19,6 +19,7 @@ a:hover, a:focus {
 hr {
 	margin-left: 15px;
 }
+
  
 .wrapper {
 	background-color:#E7E4E4;
@@ -97,7 +98,6 @@ hr {
 .foot a:hover, a:focus {
 	color: green;	
 }
-
 
 .btn {
 	background-color: #D01616;
